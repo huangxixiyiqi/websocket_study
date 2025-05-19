@@ -49,7 +49,7 @@
 1. Clone the repo
 
 ```sh
-git clone https://github.com/shaojintian/Best_README_template.git
+git clone https://github.com/huangxixiyiqi/websocket_study.git
 ```
 
 ### 文件目录说明
